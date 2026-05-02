@@ -7,7 +7,7 @@ I'm a developer focused on building meaningful web applications. Currently, I'm 
 - 🚀 **Currently working on:** [Pneuma]
 - 🛠️ **Tech Stack:** React, Node.js, Express, PostgreSQL, Supabase, Google OAuth
 - 📫 **How to reach me:** chuks.techstack@gmail.com
-- 📄 **My Portfolio:** [Live Project Demo: https://pneuma-frontend-oijl.onrender.com ]
+- 📄 **My Portfolio:** [ https://pneuma-frontend-oijl.onrender.com ]
 
 ---
 ### 🛠️ My Toolbelt
