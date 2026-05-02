@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Kingsley E.👋
 
-<!--
-**chukstechstack/chukstechstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | React • Node.js • PostgreSQL • Supabase • MongoDB • Express
 
-Here are some ideas to get you started:
+I'm a developer focused on building meaningful web applications. Currently, I'm developing **Pneuma**, a platform for sharing faith-based stories and building community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 **Currently working on:** [Pneuma]
+- 🛠️ **Tech Stack:** React, Node.js, Express, PostgreSQL, Supabase, Google OAuth
+- 📫 **How to reach me:** chuks.techstack@gmail.com
+- 📄 **My Portfolio:** [Live Project Demo: https://pneuma-frontend-oijl.onrender.com ]
+
+---
+### 🛠️ My Toolbelt
+![JavaScript](https://shields.io)
+![React](https://shields.io)
+![NodeJS](https://shields.io)
+![Postgres](https://shields.io)
+![MongoDb](https://shields.io)
