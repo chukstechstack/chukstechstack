@@ -3,7 +3,8 @@
 
 I'm a developer focused on building meaningful, performant web applications. Currently developing **Pneuma** — a platform for sharing faith-based stories and building community, with a strong emphasis on backend architecture, caching, and optimized media delivery.
 
-- 🚀 **Currently working on:** [Pneuma](https://pneuma-frontend-oijl.onrender.com)
+- 🚀 **Currently working on:** [Pneuma]
+- **Live Link :** (https://pneuma-frontend-oijl.onrender.com)
 - 🛠️ **Tech Stack:** React, Node.js, Express, PostgreSQL, Supabase, Redis, Sharp, AWS CloudFront, Google OAuth
 - 📫 **How to reach me:** chuks.techstack@gmail.com
 
